@@ -1,7 +1,7 @@
 #asg05
 
 **Description:**
-For this project, I wrote the code in **[Proj05Runner.java](Proj05Runner.java)* to produce a GUI constructed of Swing components that met the requirements posted below.
+For this project, I wrote the code in **[Proj05Runner.java](Proj05Runner.java)** to produce a GUI constructed of Swing components that met the requirements posted below.
 
 **Requirements:**
 - Your GUI must be constructed of Swing components.
