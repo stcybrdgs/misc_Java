@@ -30,10 +30,10 @@ public class Proj08Runner extends JFrame{
 	// my counter label in the panel. . . this 
 	// mechanism provides the overlap necessary to mimic
 	// he sample program. . . 
-	panel = new JPanel();                       // make the panel
-	this.add(panel, BorderLayout.NORTH);        // add it to the frame
-	label = new JLabel("50", JLabel.CENTER);    // make a counter label
-	panel.add(label);                           // add it to the panel
+	panel = new JPanel();                           // make the panel
+	this.add(panel, BorderLayout.NORTH);            // add it to the frame
+	label = new JLabel("50", JLabel.CENTER);        // make a counter label
+	panel.add(label);                               // add it to the panel
 		
 	// add a slider to the frame
 	slider = new JSlider();
