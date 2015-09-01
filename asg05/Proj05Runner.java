@@ -1,8 +1,7 @@
 /******************************************
-* Student:  Stacy Bridges
-* Course:   ITSE2317 - Java Programming (Intermediate)
+* Programmer:  Stacy Bridges
+* Course:   Java Programming (Intermediate)
 * Assg:     Asg05
-* Date:     July 02, 2015
 *******************************************/
 import java.util.*;
 import javax.swing.*;
