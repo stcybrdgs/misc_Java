@@ -1,5 +1,5 @@
 /******************************************
-* Student:  Stacy Bridges
+* Programmer:  Stacy Bridges
 * Course:   Java Programming (Intermediate)
 * Assg:     Asg07
 *******************************************/
