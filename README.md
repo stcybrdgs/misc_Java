@@ -1,5 +1,3 @@
 #misclJava
 
-This repo contains several intro-level Java programs from college coursework. 
-
-The programs utilize Java swing components to create rudimentary GUIs.
+This repo contains several intermediate-level Java programs from college coursework. The programs use **Java Swing** components to create simple **GUIs**.
