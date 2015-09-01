@@ -1,7 +1,7 @@
 /******************************************
 * Programmer:  Stacy Bridges
-* Course:   Java Programming (Intermediate)
-* Assg:     Asg05
+* Course:      Java Programming (Intermediate)
+* Assg:        Asg05
 *******************************************/
 import java.util.*;
 import javax.swing.*;
