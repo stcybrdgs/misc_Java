@@ -102,4 +102,5 @@ class MyComponent extends JComponent{
 	g.setColor(Color.black);		// method of Graphics class
 	g.drawString(str, x, y);		// method of Graphics class
     }
+    
 } // end class MyComponent
