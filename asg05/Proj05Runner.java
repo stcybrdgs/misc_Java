@@ -57,7 +57,7 @@ public class Proj05Runner extends JFrame implements ActionListener, MouseListene
 			// a lag on closing the program down.
 			// It seems that System.exit(0); is the
 			// best match to the desired Asg05 behavior 
-	}
+    }
 		
     // RESPOND TO MOUSE PRESSED EVENT  -------------------------
     // note: the MouseListener interface automatically sends program
@@ -71,16 +71,16 @@ public class Proj05Runner extends JFrame implements ActionListener, MouseListene
 		
 	// repaint the contents of myLabel within the JFRAME
 	myLabel.repaint();    // method of JComponent class
-	}
+    }
 	
-	// the implementation requires the following methods to be present;
-	// because they are not needed for this assignment, they are left undefined
-	public void mouseReleased(MouseEvent event){}
-	public void mouseEntered(MouseEvent event){}
-	public void mouseExited(MouseEvent event){}	
-	public void mouseClicked(MouseEvent event){}	
+    // the implementation requires the following methods to be present;
+    // because they are not needed for this assignment, they are left undefined
+    public void mouseReleased(MouseEvent event){}
+    public void mouseEntered(MouseEvent event){}
+    public void mouseExited(MouseEvent event){}	
+    public void mouseClicked(MouseEvent event){}	
 
-    } // end class Proj05Runner
+} // end class Proj05Runner
 
 // PRINT COORDINATES TO JFRAME  -----------------------------
 // JComponent contains the paintComponent() method, which receives a
@@ -102,4 +102,4 @@ class MyComponent extends JComponent{
 	g.setColor(Color.black);		// method of Graphics class
 	g.drawString(str, x, y);		// method of Graphics class
     }
-}
+} // end class MyComponent
