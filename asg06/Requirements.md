@@ -1,4 +1,4 @@
-**Requirements:**
+**asg06 Requirements:**
 - Your program must display a Frame object. Your name must appear in the banner at the top of the frame.
 - When you move your mouse pointer around inside the client area of the frame, without pressing either mouse button, the coordinates of the mouse pointer appear directly above the pointer. In this case, the coordinates are displayed using black characters.
 - When you move your mouse pointer around inside the client area of the frame, while pressing either mouse button, the coordinates of the mouse pointer appear directly above the pointer. In this case, the coordinates are displayed using red characters.
